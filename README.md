@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/cheddar-lang/Cheddar.png?label=ready&title=Ready)](https://waffle.io/cheddar-lang/Cheddar)
 <p align="center">
   <a href="https://github.com/cheddar-lang/Cheddar">
     <img src="https://raw.githubusercontent.com/cheddar-lang/Cheddar/master/misc/logo_wide.png" alt="Cheddar" width="846">
